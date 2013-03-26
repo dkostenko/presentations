@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  5 MAR 2013 14:45
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  26 MAR 2013 13:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1129,68 +1129,93 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 [1
 
 {/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<images/traffic_jam.jpg, id=43, 903.375pt x 593.21625pt>
+LaTeX Font Info:    Try loading font information for U+msa on input line 25.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 25.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
+line 25.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2012/04/26
+) [2
+
+] <images/traffic_jam.jpg, id=69, 903.375pt x 593.21625pt>
 File: images/traffic_jam.jpg Graphic file (type jpg)
 
 <use images/traffic_jam.jpg>
-Package pdftex.def Info: images/traffic_jam.jpg used on input line 24.
+Package pdftex.def Info: images/traffic_jam.jpg used on input line 33.
 (pdftex.def)             Requested size: 245.83282pt x 161.42871pt.
- [2
-
- <./images/traffic_jam.jpg>]
-<images/its.jpg, id=69, 3011.25pt x 2205.23875pt>
-File: images/its.jpg Graphic file (type jpg)
- <use images/its.jpg>
-Package pdftex.def Info: images/its.jpg used on input line 33.
-(pdftex.def)             Requested size: 245.83282pt x 180.02316pt.
  [3
 
- <./images/its.jpg>] <images/cars.jpg, id=95, 466.74374pt x 310.91156pt>
+ <./images/traffic_jam.jpg>]
+<images/its.jpg, id=95, 3011.25pt x 2205.23875pt>
+File: images/its.jpg Graphic file (type jpg)
+ <use images/its.jpg>
+Package pdftex.def Info: images/its.jpg used on input line 42.
+(pdftex.def)             Requested size: 245.83282pt x 180.02316pt.
+ [4
+
+ <./images/its.jpg>] <images/cars.jpg, id=121, 466.74374pt x 310.91156pt>
 File: images/cars.jpg Graphic file (type jpg)
 
 <use images/cars.jpg>
-Package pdftex.def Info: images/cars.jpg used on input line 41.
+Package pdftex.def Info: images/cars.jpg used on input line 52.
 (pdftex.def)             Requested size: 245.83282pt x 163.7576pt.
- [4
+ [5
 
  <./images/cars.jpg>]
-<images/isolated_areas.jpg, id=121, 562.1pt x 421.575pt>
+<images/isolated_areas.jpg, id=148, 562.1pt x 421.575pt>
 File: images/isolated_areas.jpg Graphic file (type jpg)
 
 <use images/isolated_areas.jpg>
-Package pdftex.def Info: images/isolated_areas.jpg used on input line 50.
+Package pdftex.def Info: images/isolated_areas.jpg used on input line 61.
 (pdftex.def)             Requested size: 245.83282pt x 184.37427pt.
- [5
+ [6
 
  <./images/isolated_areas.jpg>]
-<images/frame1.png, id=147, 67.25125pt x 51.19125pt>
+<images/frame1.png, id=174, 67.25125pt x 51.19125pt>
 File: images/frame1.png Graphic file (type png)
  <use images/frame1.png>
-Package pdftex.def Info: images/frame1.png used on input line 63.
+Package pdftex.def Info: images/frame1.png used on input line 85.
 (pdftex.def)             Requested size: 61.45703pt x 46.78093pt.
 
-<images/frame2.png, id=148, 64.24pt x 54.2025pt>
+<images/frame2.png, id=175, 64.24pt x 54.2025pt>
 File: images/frame2.png Graphic file (type png)
  <use images/frame2.png>
-Package pdftex.def Info: images/frame2.png used on input line 63.
+Package pdftex.def Info: images/frame2.png used on input line 85.
 (pdftex.def)             Requested size: 61.45703pt x 51.85515pt.
 
-<images/frame3.png, id=149, 77.28876pt x 58.2175pt>
+<images/frame3.png, id=176, 77.28876pt x 58.2175pt>
 File: images/frame3.png Graphic file (type png)
  <use images/frame3.png>
-Package pdftex.def Info: images/frame3.png used on input line 63.
+Package pdftex.def Info: images/frame3.png used on input line 85.
 (pdftex.def)             Requested size: 61.45703pt x 46.29422pt.
 
-<images/frame4.png, id=150, 76.285pt x 65.24374pt>
+<images/frame4.png, id=177, 76.285pt x 65.24374pt>
 File: images/frame4.png Graphic file (type png)
  <use images/frame4.png>
-Package pdftex.def Info: images/frame4.png used on input line 63.
+Package pdftex.def Info: images/frame4.png used on input line 85.
 (pdftex.def)             Requested size: 61.45703pt x 52.5634pt.
 
-[6
+<images/frame_sum.png, id=178, 90.3375pt x 61.22874pt>
+File: images/frame_sum.png Graphic file (type png)
+
+<use images/frame_sum.png>
+Package pdftex.def Info: images/frame_sum.png used on input line 85.
+(pdftex.def)             Requested size: 61.45703pt x 41.6546pt.
+ [7
 
  <./images/frame1.png> <./images/frame2.png> <./images/frame3.png> <./images/fr
-ame4.png>]
+ame4.png> <./images/frame_sum.png>] [8
+
+]
 \tf@nav=\write6
 \openout6 = `vkr.nav'.
 
@@ -1200,11 +1225,11 @@ ame4.png>]
 \tf@snm=\write8
 \openout8 = `vkr.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
  (./vkr.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 97.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 97.
 Package rerunfilecheck Info: File `vkr.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1212,22 +1237,24 @@ Package rerunfilecheck Info: File `vkr.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 97.
  ) 
 Here is how much of TeX's memory you used:
- 15802 strings out of 493488
- 292484 string characters out of 3141326
- 367957 words of memory out of 3000000
- 18713 multiletter control sequences out of 15000+200000
- 5757 words of font info for 21 fonts, out of 3000000 for 9000
+ 15879 strings out of 493488
+ 294224 string characters out of 3141326
+ 368933 words of memory out of 3000000
+ 18764 multiletter control sequences out of 15000+200000
+ 9782 words of font info for 36 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  49i,14n,53p,419b,545s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb>
-Output written on vkr.pdf (6 pages, 1077853 bytes).
+</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.
+pfb>
+Output written on vkr.pdf (8 pages, 1088224 bytes).
 PDF statistics:
- 189 PDF objects out of 1000 (max. 8388607)
- 163 compressed objects within 2 object streams
- 14 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 246 PDF objects out of 1000 (max. 8388607)
+ 215 compressed objects within 3 object streams
+ 17 named destinations out of 1000 (max. 500000)
+ 88 words of extra memory for PDF output out of 10000 (max. 10000000)
 
